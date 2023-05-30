@@ -71,12 +71,18 @@ top:30px ;
 header p{
   font-family: 'Press Start 2P', cursive;
   position: absolute;
-  top: 60px;
+  top: 20px;
   left: 1000px;
   font-size: 20px;
   
 }
 
+header a{
+
+position: absolute;
+left: 1135px;
+top: 55px;
+}
 
 
 
